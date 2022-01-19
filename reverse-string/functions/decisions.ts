@@ -1,3 +1,4 @@
+//Evaluates a Boolean field in a Workflow
 import { DefineFunction, Schema } from "slack-cloud-sdk/mod.ts";
 
 export const UserDecision = DefineFunction(
